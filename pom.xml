@@ -35,13 +35,13 @@
     </configuration>
 </plugin>
         
-    <plugin>
+<!--     <plugin>
       <artifactId>maven-compiler-plugin</artifactId>
       <version>3.8.1</version>
       <configuration>
         <release>11</release>
       </configuration>
-    </plugin>
+    </plugin> -->
       </plugins>
     </pluginManagement>
     <plugins>
